@@ -2,12 +2,27 @@
 
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [About this project](#About)
 
-## Instructions
+## About
+This project is the first the project of the FWD initiative in corporation with udacity.
+In this project the main goal is to aply on what we have learned about JS and the DOM.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Technologies
+I almost didn't use any fancy technology here, I just HTML5, CSS, ES6+ and version control with Git.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Files
+In the project structure you will fine 2 folders (JS Folder, CSS Folder), index.html and README.md file
+The JS Folder contain single JS file which is app.js, heres where all the required javascript sits for now.
+The CSS Folder contain single CSS file which is styles.css, heres where all the required CSS sits for now.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Recourse
+[MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
+
+## Bugs
+There's no known bugs for now, but if you find any feel free to contact me
+
+## Licence 
+It allowed to be used for learning, non-profit organizations or any non commercial use, however you will have to mention this repo.
+
+
